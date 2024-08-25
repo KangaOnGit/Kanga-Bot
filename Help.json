@@ -61,8 +61,8 @@
                 "inline": false
             },
             {
-                "name": "stop",
-                "value": "Stops the song.",
+                "name": "pause",
+                "value": "Pauses the song.",
                 "inline": false            
             },
             {
