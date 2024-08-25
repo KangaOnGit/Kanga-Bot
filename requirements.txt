@@ -1,0 +1,12 @@
+discord
+yt_dlp
+asyncio
+json
+os
+io
+urllib
+re
+datetune
+random
+matplotlib.pyplot
+time

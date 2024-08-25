@@ -1,0 +1,162 @@
+[
+    {
+        "title": "**A list of commands and their use (1/5)**",
+        "description": "**The current prefix of this server is `-`. In order to execute a command, use the prefix before writing it. The command will not work if there's a space between the prefix and the command (i.e: - play, - help, etc.) nor is it capital-friendly. React to the emoji to move to the next page.**",
+        "fields": [
+            {
+                "name": "**Command Categories**",
+                "value": "Categorized commands for easier classification.",
+                "inline": false
+            },
+            {
+                "name": "**Basic Commands (Page 1)**",
+                "value": "Shows a variety of commands that are simple and act as a catalyst for future work.",
+                "inline": false
+            },
+            {
+                "name": "**Music Commands (Page 2)**",
+                "value": "Essential commands to start playing music.",
+                "inline": false
+            },
+            {
+                "name": "**Game Commands (Page 4)**",
+                "value": "Displays various games aswell as their commands.",
+                "inline": false
+            },
+            {
+                "name": "**Fodder Commands (Page 5)**",
+                "value": "Shows fodder commands/trash commands that serve as a placeholder.",
+                "inline": false
+            }
+        ]
+    },
+    {
+        "title": "Basic Commands (2/5)",
+        "description": "**Shows a variety of commands that are simple and act as a catalyst for future work.**",
+        "fields": [
+            {
+                "name": "hello",
+                "value": "Says hello back to the user and return their ID.",
+                "inline": false
+            },
+            {
+                "name": "ping",
+                "value": "Checks the bot's latency/ping (ms)",
+                "inline": false
+            }
+        ]
+    },
+    {
+        "title": "Music Commands (3/5)",
+        "description": "**Essential commands to start playing music.**",
+        "fields": [
+            {
+                "name": "play [link or keywords to song]",
+                "value": "Play the song; add more keywords if you didn't get the song you want. ",
+                "inline": false
+            },
+            {
+                "name": "play_next",
+                "value": "Plays the next song in queue.",
+                "inline": false
+            },
+            {
+                "name": "stop",
+                "value": "Stops the song.",
+                "inline": false            
+            },
+            {
+                "name": "resume",
+                "value": "Resumes the currently stopped song in queue.",
+                "inline": false            
+            },
+            {
+                "name": "skip",
+                "value": "Skips the current song playing in queue.",
+                "inline": false            
+            },
+            {
+                "name": "del_song [song's position]",
+                "value": "Removes the designated song in queue.",
+                "inline": false            
+            },
+            {
+                "name": "queue",
+                "value": "Shows the current songs in queue.",
+                "inline": false            
+            },
+            {
+                "name": "queue_list",
+                "value": "Displays a list of songs currently in queue.",
+                "inline": false            
+            },
+            {
+                "name": "clear_queue",
+                "value": "Clears the queue.",
+                "inline": false            
+            }
+        ]
+    },
+    {
+        "title": "Game Comands (4/5)",
+        "description": "**Displays various games aswell as their commands. (Nim-Game Commands)**",
+        "fields": [
+            {
+                "name": "nim [@user]",
+                "value": "Create a lobby with the initiator as the host; You can join someone's lobby by mentioning them.",
+                "inline": false
+            },
+            {
+                "name": "nim_cancel",
+                "value": "Cancels/Delete the current lobby (You must be the lobby's host).",
+                "inline": false
+            },
+            {
+                "name": "nim_lobbies",
+                "value": "Displays all active nim lobbies.",
+                "inline": false
+            },
+            {
+                "name": "nim_leave",
+                "value": "Leaves your current lobby.",
+                "inline": false
+            }
+        ]
+    },
+    {
+        "title": "Game Commands (5/5)",
+        "description": "**Displays various games aswell as their commands. (Generic Game Commands)**",
+        "fields": [
+            {
+                "name": "daily",
+                "value": "Claims your daily reward.",
+                "inline": false
+            },
+            {
+                "name": "bal",
+                "value": "Displays your balance.",
+                "inline": false
+            },
+            {
+                "name": "rob [user's ID]",
+                "value": "Rob them, shank them, like the Bri'ish.",
+                "inline": false
+            },
+            {
+                "name": "beg",
+                "value": "Begs for money, begs for mercy, begs for your life.",
+                "inline": false
+            },
+            {
+                "name": "pray [god/demon]",
+                "value": "HAVE YOU PRAYED TODAY???",
+                "inline": false
+            },
+            {
+                "name": "status_check",
+                "value": "Displays your status effects.",
+                "inline": false
+            }
+        ]
+    }
+]

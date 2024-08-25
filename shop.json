@@ -1,0 +1,95 @@
+[
+    {
+        "title": "**Local Shop (1/3)**",
+        "description": "**The current prefix of this server is `-`. In order to execute a command, use the prefix before writing it. The command will not work if there's a space between the prefix and the command (i.e: - play, - help, etc.) nor is it capital-friendly. React to the emoji to move to the next page.**",
+        "fields": [
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            }
+        ]
+    },
+    {
+        "title": "**Black Market (2/3)**",
+        "description": "**The current prefix of this server is `-`. In order to execute a command, use the prefix before writing it. The command will not work if there's a space between the prefix and the command (i.e: - play, - help, etc.) nor is it capital-friendly. React to the emoji to move to the next page.**",
+        "fields": [
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            }
+        ]
+    },
+    {
+        "title": "**Auction House (3/3)**",
+        "description": "**The current prefix of this server is `-`. In order to execute a command, use the prefix before writing it. The command will not work if there's a space between the prefix and the command (i.e: - play, - help, etc.) nor is it capital-friendly. React to the emoji to move to the next page.**",
+        "fields": [
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            },
+            {
+                "name": "placeholder",
+                "value": "placeholder",
+                "inline": false
+            }
+        ]
+    }
+]
