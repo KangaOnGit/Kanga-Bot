@@ -1,3 +1,7 @@
+import discord
+import os
+from discord.ext import commands
+
 # Retrieve the Discord bot token and OpenAI API key from environment variables.
 discord_bot_token = os.getenv("DISCORD_BOT_TOKEN")
 openai_api_key = os.getenv("OPENAI_API_KEY")
@@ -11,6 +15,7 @@ print(f"Discord Bot Token: {discord_bot_token[:5]}...")
 print(f"OpenAI API Key: {openai_api_key[:5]}...")
 
 # Configure the bot's intents to allow it to read messages and manage voice states.
+
 intents = discord.Intents.default()
 intents.messages = True  # Enable message-related events
 intents.message_content = True  # Allow reading message content

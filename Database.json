@@ -1,0 +1,45 @@
+{
+    "572633005894402068": {
+        "Wallet": 29435.7,
+        "Bank": 0,
+        "Daily Timer": 1724428124,
+        "Daily Streak": 2,
+        "Weekly Timer": 0,
+        "Rob Timer": 1724512265,
+        "Beg Timer": 1724513341,
+        "Search Timer": 1724511953,
+        "Pray Timer": 1724506030,
+        "Status Effects": {
+            "Blessing": "Demonic Blessing",
+            "Multiplier": 2,
+            "Expires": 1724516830
+        },
+        "Inventory": {}
+    },
+    "494145826550054914": {
+        "Wallet": 1066,
+        "Bank": 0,
+        "Daily Timer": 1724339790,
+        "Daily Streak": 1,
+        "Weekly Timer": 0,
+        "Rob Timer": 0,
+        "Beg Timer": 0,
+        "Search Timer": 0,
+        "Pray Timer": 0,
+        "Status Effects": {},
+        "Inventory": {}
+    },
+    "1152263918954221648": {
+        "Wallet": 4668,
+        "Bank": 0,
+        "Daily Timer": 1724512241,
+        "Daily Streak": 2,
+        "Weekly Timer": 0,
+        "Rob Timer": 0,
+        "Beg Timer": 1724505765,
+        "Search Timer": 0,
+        "Pray Timer": 0,
+        "Status Effects": {},
+        "Inventory": {}
+    }
+}
