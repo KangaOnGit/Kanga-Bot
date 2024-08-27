@@ -2,7 +2,7 @@
 
 # Running on VS Code/Local
 
-1. Create a folder named "Discord Bot"
+1. Create a folder name "Discord Bot"
 
    + Open cmd, in cmd type ```cd [Path to folder]```
    + After changing the directory to the folder, do ```git clone https://github.com/KangaOnGit/Kanga-Bot.git```
