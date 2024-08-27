@@ -4,7 +4,7 @@
 
 1. Create a folder named "Discord Bot"
 
-   + Open cmd, in cmd type ```python cd [Path to folder]```
+   + Open cmd, in cmd type ```cd [Path to folder]```
 
 1. Create an Application on [Discord Developer Portal](https://discord.com/developers/applications)
   
