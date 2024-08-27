@@ -44,3 +44,5 @@
 # Afterword
 
 I made this bot for fun, literally. It was quite a good yet tedious experience, from learning the Discord API to learning about databases and designing the frontend, etc. The code on this repo is really really REALLY bad but I hope it serves as a framework or give a general idea of how to build your own bot. The bot/repo will still be worked on since I have alot in plans; don't expect fast nor constant updates though as I am in my sophomore year of Highschool and really busy with my studies and other projects. Only God would know what I would do to get them College Credits/Portfolio, indeed; Young and Truly Humble Under God. 
+
+P.S: I would like to thank ChatGPT, Stack Overflow and Youtube for helping me debugged this spaghetti code and the creation of all of this!!!! [Note To Self](https://www.youtube.com/watch?v=Jz5BE5fMQ1Q), I don't matter, You don't matter.
