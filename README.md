@@ -40,3 +40,8 @@
 4. Replace the DISCORD_BOT_TOKEN with your actual Discord Bot Token that you got
    
 5. Run all of the Cells
+
+# Afterword
+
+- I made this bot for fun, literally. It was quite a good yet tedious experience, from learning the Discord API to learning about databases and designing the frontend, etc.
+- The code on this repo is really really REALLY bad but I hope it serves as a framework or give a general idea of how to build/execute a certain bot's mechanic.
