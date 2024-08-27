@@ -5,10 +5,11 @@
 1. Create a folder named "Discord Bot"
 
    + Open cmd, in cmd type ```cd [Path to folder]```
+   + After changing the directory to the folder, do ```git clone https://github.com/KangaOnGit/Kanga-Bot.git```
 
-1. Create an Application on [Discord Developer Portal](https://discord.com/developers/applications)
+2. Create an Application on [Discord Developer Portal](https://discord.com/developers/applications)
   
-2. In Settings, go to [Bot](https://github.com/user-attachments/assets/b9f26c28-6cd1-4254-ad2d-e038cbd18e39)
+3. In Settings, go to [Bot](https://github.com/user-attachments/assets/b9f26c28-6cd1-4254-ad2d-e038cbd18e39)
    
    + Click on [Reset Token](https://github.com/user-attachments/assets/c642ce8d-cae1-4be2-8fce-a6010be2f788)
    
@@ -17,6 +18,6 @@
    + In the "Value" field, paste in your Bot token you got from step 2
     > Make sure your Discord Bot's Token matches your variable name in the code
 
-6. Download [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
+5. Download [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
    
    + Move the FFmpeg file to the same disk containing the [code](https://github.com/user-attachments/assets/39313cbd-18ac-4192-bc62-df934fa72c32)
