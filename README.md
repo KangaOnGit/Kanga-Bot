@@ -11,7 +11,7 @@
 4. In your [Environmental Variables](https://github.com/user-attachments/assets/ca0b56d7-17ca-4897-bb61-e7a895a744a2), create a either a User Variables or System Variables (Local or Global Tokens) and name your variable "DISCORD_BOT_TOKEN"
    
    + In the "Value" field, paste in your Bot token you got from step 2
-   > Make sure your Discord Bot's Token matches your variable name in the code
+    > Make sure your Discord Bot's Token matches your variable name in the code
 
 6. Download [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
    
