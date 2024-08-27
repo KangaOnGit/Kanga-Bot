@@ -12,7 +12,6 @@
          > Make sure your Discord Bot's Token matches your variable name in the code
 
 5. Download [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
-
-         * Move the FFmpeg file to the same disk containing the repo clone [Image](https://github.com/user-attachments/assets/39313cbd-18ac-4192-bc62-df934fa72c32)
+         + Move the FFmpeg file to the same disk containing the [Code](https://github.com/user-attachments/assets/39313cbd-18ac-4192-bc62-df934fa72c32)
 
 
