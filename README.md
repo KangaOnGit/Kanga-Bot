@@ -22,3 +22,12 @@
 5. Download [FFmpeg](https://www.gyan.dev/ffmpeg/builds/)
    
    + Move the FFmpeg file to the same disk containing the [code](https://github.com/user-attachments/assets/39313cbd-18ac-4192-bc62-df934fa72c32)
+  
+6. Open the Discord Bot folder in your IDE
+7. Run app.py
+
+# Running on Google Collab
+
+1. Clone the code into your Google Collab's new Notebook
+2. Replace the DISCORD_BOT_TOKEN with your actual Discord Bot Token that you got
+3. Run all of the Cells
