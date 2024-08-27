@@ -24,10 +24,19 @@
    + Move the FFmpeg file to the same disk containing the [code](https://github.com/user-attachments/assets/39313cbd-18ac-4192-bc62-df934fa72c32)
   
 6. Open the Discord Bot folder in your IDE
+ 
 7. Run app.py
 
 # Running on Google Collab
 
 1. Clone the code into your Google Collab's new Notebook
-2. Replace the DISCORD_BOT_TOKEN with your actual Discord Bot Token that you got
-3. Run all of the Cells
+   
+2. Create an Application on [Discord Developer Portal](https://discord.com/developers/applications)
+  
+3. In Settings, go to [Bot](https://github.com/user-attachments/assets/b9f26c28-6cd1-4254-ad2d-e038cbd18e39)
+   
+   + Click on [Reset Token](https://github.com/user-attachments/assets/c642ce8d-cae1-4be2-8fce-a6010be2f788)
+   
+4. Replace the DISCORD_BOT_TOKEN with your actual Discord Bot Token that you got
+   
+5. Run all of the Cells
