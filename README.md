@@ -1,4 +1,4 @@
-# Discord-Bot
+# Discord Bot
 
 # Running on VS Code/Local
 
